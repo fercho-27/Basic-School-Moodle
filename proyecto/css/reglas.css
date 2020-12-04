@@ -1,0 +1,22 @@
+.imagenfondo-login {
+    background-image: url('../img/fondo1.png');
+    background-size: cover;
+    height: auto;
+}
+
+.imagenfondo-registro {
+    background-image: url('../img/fondo2.png');
+    background-size: cover;
+}
+
+.piepagina{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.separador{
+    color: white;
+    background-color: white;
+}
